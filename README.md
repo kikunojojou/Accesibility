@@ -2,9 +2,9 @@
 
 <p>
   <img src="https://github.com/kikunojojou/Accessibility/blob/master/pictures/meow.png?raw=true">
+  <h6>Kevin Lim, Computer Science Major, CSUN </h6>
 </p>
-
-###### Kevin Lim, Computer Science Major, CSUN
+<br/>
 
 ## Cognition
 
