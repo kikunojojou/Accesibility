@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://github.com/kikunojojou/Accessibility/blob/master/pictures/meow.png?raw=true" 
-       alt="Kevin Lim, Computer Science Major, CSUN">
+       alt="Kevin Lim, Computer Science Major, CSUN"/>
   <h6>Kevin Lim, Computer Science Major, CSUN </h6>
 </p>
 <br/>
