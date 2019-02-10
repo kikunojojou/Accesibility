@@ -1,6 +1,6 @@
 # Accessibility
 
-![alt text](https://media.licdn.com/dms/image/C5603AQER_Zkvg0WI3Q)
+![Screenshot](https://github.com/kikunojojou/Accessibility/blob/master/pictures/meow.png?raw=true "Kevin Lim")
 ###### Kevin Lim, Computer Science Major, CSUN
 
 ## Cognition
