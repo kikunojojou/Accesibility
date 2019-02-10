@@ -1,7 +1,8 @@
 # Accessibility
 
 <p>
-  <img src="https://github.com/kikunojojou/Accessibility/blob/master/pictures/meow.png?raw=true">
+  <img src="https://github.com/kikunojojou/Accessibility/blob/master/pictures/meow.png?raw=true" 
+       alt="Kevin Lim, Computer Science Major, CSUN">
   <h6>Kevin Lim, Computer Science Major, CSUN </h6>
 </p>
 <br/>
@@ -28,5 +29,5 @@ Accessibility is prominent in working in the computer science field. We create f
 ## Initial Duck
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Nlbrx4Wrko8
 " target="_blank"><img src="http://img.youtube.com/vi/Nlbrx4Wrko8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Duck quacks 'De Ja Vu' chorus" width="240" height="180" border="10" /></a>
 ###### Duck quacks "De Ja Vu" chorus 
