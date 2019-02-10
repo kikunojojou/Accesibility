@@ -1,6 +1,9 @@
 # Accessibility
 
-![Screenshot](https://github.com/kikunojojou/Accessibility/blob/master/pictures/meow.png?raw=true "Kevin Lim")
+<p>
+  <img src="https://github.com/kikunojojou/Accessibility/blob/master/pictures/meow.png?raw=true">
+</p>
+
 ###### Kevin Lim, Computer Science Major, CSUN
 
 ## Cognition
